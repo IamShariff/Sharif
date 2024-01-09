@@ -1,6 +1,6 @@
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="banner image">
 <h1 align="center">Hi 👋, I'm Md Sharif</h1>
 <h3 align="center">FullStack developer(Java+Angular) from India</h3>
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="banner image">
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamshariff&label=Profile%20views&color=0e75b6&style=flat" alt="iamshariff" /> </p>
