@@ -13,13 +13,13 @@
 
 - 📫 How to reach me **iamsharif098@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1McxXRh-_D3TmCbmmyog5DI5IggXWzvl0/view?usp=sharing](https://drive.google.com/file/d/190Pk-v-OpJ6N1w3AoZeeJ_n_Z887lMH-/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/190Pk-v-OpJ6N1w3AoZeeJ_n_Z887lMH-/view?usp=sharing]
 
 - ⚡ Fun fact **"Committing code like it's a finely crafted masterpiece, but in reality, it's just glorified typing practice. 🎨💻 #CodeArtistry"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://https://www.linkedin.com/in/md-sharif-5019ba117/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md sharif" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-sharif-5019ba117/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md sharif" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
