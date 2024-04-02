@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on **CryptoBankHub**
 
-- 💬 Ask me about **Java, Springboot, Kafka, keycloak,Hibernate**
+- 💬 Ask me about **Java, Springboot, Kafka, keycloak, Hibernate, Angular**
 
 - 📫 How to reach me **iamsharif098@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1G5EsUbLeUpW4I3_17zjZXIZ0fOSdqjLV/view?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/1QlXLEOhGylkJynVb_q2U3jgjtLd8G5v6/view?usp=drive_link
 
-- ⚡ Fun fact **"Committing code like it's a finely crafted masterpiece, but in reality, it's just glorified typing practice. 🎨💻 #CodeArtistry"**
+- ⚡ Fun fact **Committing code like it's a finely crafted masterpiece, but in reality, it's just glorified typing practice. 🎨💻 #CodeArtistry**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
